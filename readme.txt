@@ -5,5 +5,4 @@ to start the virtual env.
 - to deactivate use cmd deactivate
 
 
-Wolfram alpha knowledge
-pass: WolframLc2337/
+To use wolfram alpha go to wolfralpha.com to create your own account
